@@ -29,11 +29,6 @@ body {
   padding-top: 50px;
 }
 
-Button {
-  font-family: "Montserrat", sans-serif;
-  cursor: pointer;
-}
-
 .container {
   position: relative;
 }
